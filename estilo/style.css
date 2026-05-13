@@ -172,4 +172,8 @@ footer {
     background-color: var(--cor5);
     text-align: center;
     color: white;
+    display: flex;
+    justify-content: space-between; /* Joga um para cada lado */
+    padding-left: 3px;
+    padding-right: 3px;
 }
